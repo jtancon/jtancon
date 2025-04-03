@@ -3,9 +3,10 @@
 
 
 🎓 Estudante de Sistemas de Informação PUCPR  
-💻 Apaixonado por programação, algoritmos e desenvolvimento de Java e Python 
+
+💻 Apaixonado por programação, algoritmos e desenvolvimento de Java | Python | JavaScript | PHP | Angular | Kotlin |
+
 📚 Sempre explorando novos projetos e aprendizados  
-🌱 Atualmente aprendendo s
 
 ## 🚀 Meus Principais Projetos
 
@@ -29,7 +30,9 @@
 
 ## 📊 GitHub Status
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jtancon&layout=compact&langs_count=6&theme=tokyonight)
+
 
 ---
 
