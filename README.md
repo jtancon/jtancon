@@ -15,6 +15,7 @@
 - 🧾 [Controle Solidário](https://github.com/jtancon/Controle-Solidario) – Sistema para gestão de doações e saídas de recursos em ONGs
 - 🔭 [Laboratório de Astronomia](https://github.com/jtancon/Laboratorio-de-Astronomia) – Aplicação interativa com conteúdos astronômicos para educação
 - 🌐 [Trabalho de Web](https://github.com/jtancon/trabalhoDeWeb) – Projeto web acadêmico com foco em front-end responsivo
+- ☕ [Trabalho de Web](https://github.com/RayGovaski/Proj_Android) – Projeto desenvolvimente de aplicativo Android
 
 ## 🛠️ Tecnologias que utilizo
 
