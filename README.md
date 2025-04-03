@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou o João Tancon!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines=Olá%2C+me+chamo+João+Victor+Monteiro+Tancon!;Desenvolvedor+Java%2C+Kotlin,+Python+e+PHP.;Apaixonado+por+tecnologia.)](https://github.com/jtancon)
+
+
 
 🎓 Estudante de Sistemas de Informação PUCPR  
 💻 Apaixonado por programação, algoritmos e desenvolvimento de Java e Python 
@@ -23,8 +25,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## 📫 Entre em contato
+---
+
+## 📊 GitHub Status
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
 
+---
+
+## 📫 Entre em contato
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-monteiro-tancon-b83656222/)
 ---
